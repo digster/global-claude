@@ -58,7 +58,7 @@
 
 - Any new or updated env vars should be appropriately updated in the .env.example file.
 
-- If the codebase has a LEARNINGS.md file, it contains learnings we have learned while working with this codebase. For example, a particular code pattern that might produce bugs. Read this file and remember the learnings while dealing with this codebase.
+- If the codebase has a LEARNINGS.md file, it contains learnings we have learned while working with this codebase. For example, a particular code pattern that might produce bugs. Read this file and remember the learnings while dealing with this codebase. Also, create or add to this file as necessary.
 
 - Always add an mit license by default for greenfield projects. Use 'digster' as the right holder name.
   
