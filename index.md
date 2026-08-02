@@ -81,3 +81,5 @@
 ## Remote Sessions
 
 - When creating git branches for remote claude code sessions, give them a name relevant to the task.
+
+- Personal email is not allowed for github pushes, use 3542726+digster@users.noreply.github.com for commits instead.
