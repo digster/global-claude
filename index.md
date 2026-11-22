@@ -78,8 +78,10 @@
 
 - When there’s a bug, start by writing a test that reproduces it, then fix it until the test passes.
   
-## Remote Sessions
+## Cloud Sessions
 
-- When creating git branches for remote claude code sessions, give them a name relevant to the task.
+- When creating git branches for remote cloud sessions, give them a name relevant to the task.
 
 - Personal email is not allowed for github pushes, use 3542726+digster@users.noreply.github.com for commits instead.
+
+- Do not start multiple agents. 
