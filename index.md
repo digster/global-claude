@@ -6,7 +6,7 @@
 
 - Always ask before removing or changing any major existing functionality that is out of the scope of the current request before working on it.
 
-- After every fix generate a git commit message that can be used by the user(never add claude as the author or co-author). Also, do not commit for me, only generate the message(unless the claude session is running in a remote cloud environment).
+- Never add claude as the author or co-author.
 
 - When not having any context and trying to understand a new project, start with the readme and architecture files, if they exist, and then move on to the other files(the readme and architecture files could also be stale, so keep that in mind).
 
